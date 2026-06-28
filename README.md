@@ -116,6 +116,49 @@ This project helped me understand the internal concepts behind GUI designers and
 
 ---
 
+## Mini Project 4 – Canvas Widget Designer
+
+### Overview
+
+A mini visual GUI designer developed using C++ and Qt Widgets. Users can drag widgets from a toolbox, place them on a design canvas, select them, and reposition them interactively.
+
+### Features
+
+* Drag and Drop Widget Placement
+* Interactive Design Canvas
+* Widget Selection
+* Widget Repositioning
+* Grid Background
+* Dynamic Widget Creation
+* Multiple Widget Types
+* Canvas Management
+* Clear All Functionality
+
+### Supported Widgets
+
+* Button
+* Label
+* Text Field
+* Checkbox
+* Radio Button
+
+### Qt Concepts Learned
+
+* QWidget
+* Custom Painting
+* Drag & Drop Framework
+* Mouse Events
+* Event Filters
+* Dynamic Widget Creation
+* Object-Oriented Design
+* Layout Management
+* GUI Development
+
+### What I Learned
+
+This project helped me understand how GUI builders such as Qt Designer work internally. I learned how to dynamically create widgets, manage user interaction, handle drag-and-drop operations, and build an interactive design surface using Qt Widgets.
+
+
 # Learning Progress
 
 Current Completed Projects:
@@ -123,32 +166,34 @@ Current Completed Projects:
 * ✅ Mini Project 1 – Simple Paint Application
 * ✅ Mini Project 2 – Rectangle Drawing Canvas
 * ✅ Mini Project 3 – Drag & Drop Widget Builder
+* ✅ Mini Project 4 – Canvas Widget Designer
 
 Upcoming Projects:
 
-* 🔄 Mini Project 4 – Interactive Form Designer
-* 🔄 Mini Project 5 – File Explorer
+* 🔄 Mini Project 5 – Notepad Application
 * 🔄 Mini Project 6 – Image Viewer
-* 🔄 Mini Project 7 – Notepad Application
+* 🔄 Mini Project 7 – File Explorer
 
 ---
 
 # Repository Structure
 
-Qt-Learning-Journey/
-
+Qt-Learning-Journey
+│
+├── README.md ⭐
+│
 ├── MiniProject1_PaintApp
-
 ├── MiniProject2_RectangleCanvas
-
 ├── MiniProject3_DragDropWidgets
-
-├── Screenshots/
-
-├── Videos/
-
-└── README.md
-
+├── MiniProject4_CanvasWidgetDesigner
+│
+├── Screenshots
+│   ├── Project1.png
+│   ├── Project2.png
+│   ├── Project3.png
+│   └── Project4.png
+│
+└── LICENSE
 ---
 
 # Author
