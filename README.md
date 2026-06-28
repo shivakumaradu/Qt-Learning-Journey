@@ -176,25 +176,7 @@ Upcoming Projects:
 
 ---
 
-# Repository Structure
 
-Qt-Learning-Journey
-│
-├── README.md ⭐
-│
-├── MiniProject1_PaintApp
-├── MiniProject2_RectangleCanvas
-├── MiniProject3_DragDropWidgets
-├── MiniProject4_CanvasWidgetDesigner
-│
-├── Screenshots
-│   ├── Project1.png
-│   ├── Project2.png
-│   ├── Project3.png
-│   └── Project4.png
-│
-└── LICENSE
----
 
 # Author
 
